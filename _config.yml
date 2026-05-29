@@ -1,0 +1,31 @@
+title: Vestre Holmen Sameie
+description: Vedtekter og husordensregler
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+
+# Default frontmatter for all markdown files
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# URL settings for GitHub Pages
+url: "https://vestreholmensameie.github.io"
+baseurl: "/vedtekter-og-ordensregler"
+
+# Navigation
+header_links:
+  - title: Vedtekter
+    url: /vedtekter/
+  - title: Husordensregler
+    url: /husordensregler/
