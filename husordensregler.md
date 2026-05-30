@@ -1,372 +1,367 @@
 # Husordensregler Vestre Holmen Sameie
 
-_Oslo – vedtatt våren 2019_
+_Oslo, vedtatt våren 2021_
 
 ## INNLEDNING/FORMÅL
 
-Velkommen som seksjonseier i Vestre Holmen sameie. Vi håper du vil trived og at
+Velkommen som seksjonseier i Vestre Holmen sameie. Vi håper du vil trives og at
 du vil være med på å skape et godt bomiljø og bidra til fellesskapet i sameiet.
 
-Målet med husordensreglene er å holde ro og orden i sameiet og skape et godt og
+Målet med husordensregler er å holde ro og orden i sameiet og skape et godt og
 inkluderende bomiljø for alle. Det oppfordres til et bevisst forhold til miljø,
-forurensing og til et bærekraftig miljø.
+forurensning og til et bærekraftig miljø.
 
 Husordensreglene gjelder for alle som oppholder seg i sameiet. Beboerne plikter
 å følge reglene og er ansvarlige for at de overholdes av husstanden, leietakere
 eller andre som gis adgang til leiligheten.
 
 Seksjonseierne har et felles ansvar for at bygninger og utearealer holdes i god
-stand. For å oppnå dette, og for å skape best mulig forhold mellom de ankelte
-beboerne, følger nedenfor husordensregler som er å anse som et supplement til de
-enhver tid gjeldende vedtekter. Vedtektene inneholder bestemmelser om
+stand. For å oppnå dette, og for å skape best mulig forhold mellom de enkelte
+beboere, følger nedenfor husordensregler som er å anse som et supplement til de
+enhver tid gjeldene vedtekter. Vedtektene inneholder bestemmelser om
 seksjonseiers rettigheter, men også plikter og ansvar.
 
 ## Innholdsfortegnelse
 
-Pkt. 1 Overdragelse og utleie av leilighet
-
-Pkt. 2 Husro
-
-Pkt. 3 Ombygging
-
-Pkt. 4 Ventilasjon og vann/avløp
-
-Pkt. 5 Varmtvannsberedere
-
-Pkt. 6 Peis/Ildsted
-
-Pkt. 7 Skadedyr
-
-Pkt. 8 Søppel/Avfall
-
-Pkt. 9 Dyrehold
-
-Pkt. 10 Fellesområder – Innendørs
-
-Pkt. 11 Balkonger – bruk av
-
-Pkt. 12 Markiser, varmepumpe, parabol mv.
-
-Pkt. 13 Sikkerhet/nøkler
-
-Pkt. 14 Postkasse- og ringetablåskilt
-
-Pkt. 15 Fellesområder – Uteområder
-
-Pkt. 16 Garasjer /Parkering
-
-Pkt. 17 Brannforebyggende sikkerhet
-
-Pkt. 18 Fellesvaskeri
-
-Pkt. 19 Brudd på husordensreglene
-
-Pkt. 20 Erstatningsansvar
-
-Pkt. 21 Kontaktinformasjon og hjemmeside
-
-Pkt. 22 Endring av husordensreglenePkt. 23 Håndhevelse
-
-Pkt. 24 Valgkomité til styreverv
-
-Pkt. 25 Sameiets styre
-
-Pkt. 26 Årsmøte
+- [Pkt. 1 Overdragelse og utleie av leilighet](#1-overdragelse-og-utleie-av-leilighet)
+- [Pkt. 2 Husro](#2-husro)
+- [Pkt. 3 Ombygging](#3-ombygging)
+- [Pkt. 4 Ventilasjon og vann/avløp](#4-ventilasjon-og-vannavløp-samt-elektriske-anlegg)
+- [Pkt. 5 Varmtvannsberedere](#5-varmtvannsberedere)
+- [Pkt. 6 Peis/ildsted](#6-peisildsted)
+- [Pkt. 7 Skadedyr](#7-skadedyr)
+- [Pkt. 8 Søppel/avfall](#8-søppel-avfall)
+- [Pkt. 9 Dyrehold](#9-dyrehold)
+- [Pkt. 10 Fellesområder – Innendørs](#10-fellesområder-innendørs)
+- [Pkt. 11 Balkonger – bruk av](#11-bruk-av-balkonger)
+- [Pkt. 12 Markiser, varmepumpe, parabol, julebelysning mv.](#12-markiser-varmepumpe-parabol-julebelysning-mv)
+- [Pkt. 13 Sikkerhet/nøkler](#13-sikkerhet-nøkler)
+- [Pkt. 14 Postkasse- og ringetablåskilt](#14-postkasse--og-ringetablåskilt)
+- [Pkt. 15 Fellesområder – Uteområder](#15-fellesområder-uteområder)
+- [Pkt. 16 Garasjer / Parkering](#16-garasjeparkering)
+- [Pkt. 17 Brannforebyggende sikkerhet](#17-brannforebyggende-sikkerhet)
+- [Pkt. 18 Fellesvaskeri](#18-fellesvaskeri)
+- [Pkt. 19 Brudd på husordensreglene](#19-brudd-på-husordensreglene-klager)
+- [Pkt. 20 Erstatningsansvar](#20-erstatningsansvar)
+- [Pkt. 21 Kontaktinformasjon og hjemmeside](#21-kontaktinformasjon-og-hjemmeside)
+- [Pkt. 22 Endring av husordensreglene](#22-endring-av-husordensreglene)
+- [Pkt. 23 Håndhevelse](#23-håndhevelse)
+- [Pkt. 24 Valgkomité til styreverv](#24-valgkomité-til-styreverv)
+- [Pkt. 25 Sameiets styre](#25-sameiets-styre)
+- [Pkt. 26 Årsmøte](#26-årsmøte)
 
 ## 1. OVERDRAGELSE OG UTLEIE AV LEILIGHET
 
-a) Ifølge vedtektenes § 3 skal enhver ny eier eller leietaker meldes skriflig
+__a)__ Ifølge vedtektenes § 3 skal enhver ny eier eller leietaker meldes skriftlig
     til sameiets forretningsfører.
 
-b) Utleiere er ansvarlig for at samtlige leietakere informeres om, og følger
+__b)__ Utleiere er ansvarlige for at samtlige leietakere informeres om, og følger
     gjeldende vedtekter og husordensregler ved at disse dokumentene følger
     leiekontrakten.
 
-c) Hvis seksjonseier ikke selv bor i seksjonen, plikter seksjonseier å føre
+__c)__ Hvis seksjonseier ikke selv bor i seksjonen, plikter seksjonseier å føre
     nødvendig tilsyn.
 
-d) Utleiere er ansvarlig for å bestille nye dør- og postkasseskilt til nye
-    leietakere.
+__d)__ Utleiere er ansvarlig for å bestille nye dør- og postkasseskilt til nye
+    leietakere. Skiltene bestilles ved e-post til styret.
 
-e) Se pkt. 21 vedr. seksjonseiers plikter i forhold til kontaktadresser.
+__e)__ Se pkt. 21 vedr. seksjonseiers plikter i forhold til kontaktadresser.
 
 ## 2. HUSRO
 
 Vi oppfordrer alle til å vise hensyn, tålmodighet og fremfor alt ha en god
-dialog med naboer imellom slik at alle trives. Det henstilles om å varsle naboer
+dialog naboer imellom slik at alle trives. Det henstilles om å varsle naboer
 hvis man skal ha festlig sammenkomst eller utføre arbeider som kan medføre noe
 mer støy enn alminnelig, og heng gjerne opp lapp i trappeoppgangen.
 
 Det skal i alminnelighet være ro og orden:
 
-a) Hverdager – fra 23:00 til kr. 07:00
+__a)__ Hverdager – fra kl. 23:00 til kl. 07:00
 
-b) Lørdager, søndager og helligdager – fra kl. 23:00 til kl. 09:00
+__b)__ Lørdag, søndag og helligdager – fra kl. 23:00 til kl. 09:00
 
-c) Ved innflytting, modernisering eller reparasjoner i boligen som medfører
-    banking, boring, sliping, saging ect. varsles naboer. Slik arbeid kan fortas
-    på:<br>
-    Hverdager kl 08:00 – 20:00<br>
-    Lørdager kl 10:00 – 18:00<br>
-    Søndager og helligdager er slikt arbeid ikke tillatt.<br>
+__c)__ Ved innflytting, modernisering eller reparasjoner i boligen som medfører
+    banking, boring, sliping, saging etc., varsles naboer. Slikt arbeid kan
+    foretas på:
 
-## 3.OMBYGGING – Bygningsmessige endringer i leiligheter, jfr. Vedtekter §7
+- Hverdager kl. 08:00 – 20:00
+- Lørdager kl. 10:00 – 18:00.
+- Søndager og helligdager er slikt arbeid ikke tillatt.
 
-a) Inne i leiligheter skal arbeid knyttet til elektrisk anlegg, VVS, piper
+## 3. OMBYGGING
+
+bygningsmessige endringer i leiligheter, jfr. Vedtekter § 7
+
+__a)__ Inne i leiligheter skal arbeid knyttet til elektrisk anlegg, VVS, piper
     (vedovn) og bærevegger utføres av kvalifiserte fagfolk, og i henhold til
     lover og forskrifter.
 
-b) Endringer av bærevegger eller utvidelse av leiligheter er søknadspliktig i
+__b)__ Endringer av bærevegger eller utvidelse av leiligheter er søknadspliktig i
     kommunen, og skal ikke utføres uten godkjenning.
 
-c) Skal du rive en bærevegg eller endre en bærende konstruksjon i din bolig, er
-    det søknadspliktig tiltak etter plan- og bygningsloven § 20-1 og 20-1, og
-    styret skal godkjenne riving.
+__c)__ Skal du rive en bærevegg eller endre en bærende konstruksjon i din bolig, er
+    det et søknadspliktig tiltak etter plan- og bygningsloven §§ 20-1 og 20-2,
+    og styret skal godkjenne riving.
 
-d) Seksjonseier holdes økonomisk ansvarlig for kostnader som påføres sameiet
+__d)__ Seksjonseier holdes økonomisk ansvarlig for kostnader som påføres sameiet
     dersom reglene ikke overholdes.
 
-## 4.VENTILASJON OG VANN/AVLØP, SAMT ELEKTRISK ANLEGG
+## 4. VENTILASJON OG VANN/AVLØP, SAMT ELEKTRISKE ANLEGG
 
 Arbeider som innebærer fare for vannlekkasje – arbeid, på bad/kjøkken/vaskerom
 som inkluderer røropplegg, må kun utføres av autoriserte firmaer pga. fare for
-lekkasje til underloggende leiligheter eller i fellesområder. Tilsvarende
+lekkasje til underliggende leiligheter eller i fellesområder. Tilsvarende
 gjelder for arbeider på det elektriske anlegg. Ventilasjonssystemet er basert på
 naturlig ventilasjon.
 
-a) Det er ikke tillatt å koble elektriske vifter til ventilene på kjøkken, bad
-    og toalett, heller ikke påeller ut av yttervegg for å bedre utluftingen.
+__a)__ Det er ikke tillatt å koble elektriske vifter til ventilene på kjøkken, bad
+    og toalett, heller ikke på eller ut av yttervegg for å bedre utluftingen.
     Avtrekksluft fra kjøkkenvifte skal resirkuleres i leiligheten og IKKE sendes
     ut hverken gjennom innvendige eller utvendige ventiler. Avtrekket skal
-    påmonteres killfilter (for lukt) og filter for samlig av fett da
+    påmonteres kullfilter (for lukt) og filter for samling av fett da
     ventilasjonssystemet er basert på naturlig ventilasjon. Elektriske vifter
     forstyrrer balansen i luftekanalene til andre leiligheter i oppgangen.
 
-b) Avtrekksventiler på kjøkken, bad og toalett holdes åpne for å unngå
+__b)__ Avtrekksventiler på kjøkken, bad og toalett holdes åpne for å unngå
     kondensskader og muggdannelse i boligen.
 
-c) Boligen må være tilstrekkelig oppvarmet ved fravær, flytting eller lignende i
+__c)__ Boligen må være tilstrekkelig oppvarmet ved fravær, flytting eller lignende i
     den kalde årstiden slik at vann-/avløpsrør ikke blir frostskadet.
 
-d) Avstenging av hovedkran må bare foretas etter at naboer som berøres er
+__d)__ Avstenging av hovedvannkran må bare foretas etter at naboer som berøres er
     varslet.
 
-e) Styret henstiller alle beboere om å rense slik på bad-og balkong minst én
-    gang per år. Dette for å unngå oppsamling av skitt/smudd som igjen kan føre
+__e)__ Styret henstiller alle beboere om å rense sluk på bad og balkong minst én
+    gang per år. Dette for å unngå oppsamling av skitt/smuss som igjen kan føre
     til tette rør og lekkasjer.
 
-f) Det er svært viktig at leilighetens lufteluker/ventiler er åpne. Dersom du
-    har vinduer med spalteventiler, oppfordres du til å la disse stå åpne.
+__f)__ Det er svært viktig at leilighetens lufteluker/ventiler er åpne. Dersom du
+    har vinduer med spalteventiler, oppfordres du til å la disse å stå åpne.
 
-## 5.VARMTVANNSBEREDERE
+## 5. VARMTVANNSBEREDERE
 
 Det er lov å montere varmtvannsberedere i fellesarealer hvis alle beboere er
 enige, og det blir montert forskriftsmessig av fagperson og med eget strømpunkt.
-Søknad sendes styret som må godkjenne dette før arbeidet kan igangsettes.
+Søknad sendes styret som må godkjenne dette før arbeidet kan igangsettes.Du
+finner søknadsskjema her: https://www.abbl.no/?page=heim.  Helt til høyre finner
+du beboer/medlemsportal hvor du som seksjonseier kan logge inn. Du finner
+skjemaene under Dokumenter/skjemaer.
 
-## 6.PEIS/ILDSTED
+## 6. PEIS/ILDSTED
 
-Ved utskifting eller omgjøring av peis/ildsted skal søknad sendes til styret før
-godkjenning, og før arbeidet kan starte, må det foreligge tilbud på konkret
-arbeid fra sertifisert håndverker. Dette er meget viktig, da sameiet har satt
-inn stålrør i pipene. Eier blir selv erstatningsansvarlig for feil som skyldes
-arbeid utført uten godkjenning fra styret og/eller sertifisert håndverker.
+Ved utskifting eller omgjøring av peis/ildsted skal søknad sendes til styret for
+godkjenning, og før arbeidet kan starte. Du finner søknadsskjema her:
+https://www.abbl.no/?page=heim. Helt til høyre finner du beboer/medlemsportal
+hvor du som seksjonseier kan logge inn. Du finner skjemaene under
+Dokumenter/skjemaer.
 
-## 7.SKADEDYR
+Det må foreligge tilbud på konkret arbeid fra sertifisert håndverker. Dette er
+meget viktig, da sameiet har satt inn stålrør i pipene.
+
+Eier blir selv erstatningsansvarlig for feil som skyldes arbeid utført uten
+godkjenning fra styret og/eller sertifisert håndverker.
+
+Seksjonseier er selv pliktige til å melde i fra til kommunen når ildsted er
+endret av sertifiserte fagfolk. Dette for å raskt å kunne håndtere en eventuell
+brann.
+https://www.oslo.kommune.no/plan-bygg-og-eiendom/skal-du-bygge-rive-eller-endre/ma-du-sende-byggesoknad/ildsted-eller-skorstein/#gref
+
+## 7. SKADEDYR
 
 Som beboer plikter du å melde fra til styret om skadedyr i leiligheten. Dersom
-det oppdages skadedyr/innsekter i leilighet plikter sameier å gjøre nødvendig
+det oppdages skadedyr/innsekter i leilighet plikter sameier å gjøre nødvendige
 tiltak for å bli kvitt problemet.
 
-a) Sameier må straks melde fra til styret hvis det merkes veggdyr eller lignende
-    skadedyr i leilgheten – sukkermaur regnes ikke som skadedyr.
+__a)__ Sameier må straks melde fra til styret hvis det merkes veggedyr eller
+    lignende skadedyr i leiligheten – sukkermaur regnes ikke som skadedyr.
 
-b) Utendørs mating av dyr/fugler tiltrekker seg også skadedyr og bør derfor
+__b)__ Utendørs mating av dyr/fugler tiltrekker seg også skadedyr og bør derfor
     unngås.
 
-## 8.SØPPEL / AVFALL
+## 8. SØPPEL / AVFALL
 
-a) Kildesortering skal skje iht. kommunale regler.
+__a)__ Kildesortering skal skje iht. kommunale regler.
 
-b) Søppelposer skal være grundig knyttet igjen. Papir og papp skal kastes i egne
+__b)__ Søppelposer skal være grundig knyttet igjen. Papir og papp skal kastes i egne
     beholdere i sammenbrettet stand.
 
-c) Søppel skal ikke settes i trappeoppgangene.
+__c)__ Søppel skal ikke settes i trappeoppgangene.
 
-d) Det er forbudt å sette fra seg søppel/avfall i fellesrom. Avfall etter
-    flytting, oppussing ect. må beboerne selv sørge for å fjerne – levere til
+__d)__ Det er forbudt å sette fra seg søppel/avfall i fellesrom. Avfall etter
+    flytting, oppussing etc. må beboerne selv sørge for å fjerne – levere til
     offentlig gjenbruksstasjon.
 
-## 9.DYREHOLD
+## 9. DYREHOLD
 
-a) Dyrehold er tillatt såfremt dette ikke er til urimelig sjenanse for naboer.
+__a)__ Dyrehold er tillatt såfremt dette ikke er til urimelig sjenanse for naboer.
     Dyr som er til vesentlig sjenanse, kan styret forlange fjernet. Eventuell
     klage på dyrehold må skje skriftlig. Styret kan innkalle partene til
     samtaler i saken.
 
-b) På sameiets fellesarealer gjelder båndtvang hele året, også i
-    trappeoppganger.
+__b)__ På sameiets fellesarealer gjelder båndtvang hele året, også i trappeoppganger.
 
-c) Ekskrementer skal fjernes med pose og kastes i avfallsbeholder, eventuelle
+__c)__ Ekskrementer skal fjernes med pose og kastes i avfallsbeholder, eventuelle
     andre etterlatenskaper vaskes vekk.
 
-## 10.FELLESOMRÅDER – INNENDØRS
+## 10. FELLESOMRÅDER – INNENDØRS
 
-a) Vi oppfordrer alle til å holde fellesarealer i orden – her har vi alle
-    ansvar. Feil på utstyr evt. i fellesarealer meldes direkte til
+__a)__ Vi oppfordrer alle til å holde fellesarealer i orden – her har vi alle
+    ansvar. Feil på utstyr etc. i fellesarealer meldes direkte til
     vaktmester/styret. Skilt med vaktmesters kontaktinformasjon henger på
     oppslagstavla i hver oppgang og finnes på sameiets hjemmeside.
 
-b) I oppgangene skal det ikke plasseres personlige eiendeler. Trappeoppganger og
+__b)__ I oppgangene skal det ikke plasseres personlige eiendeler. Trappeoppganger og
     fellesganger er rømningsveier. Sykler og barnevogner kan plasseres i
     fellesrom i kjeller.
 
-c) Fellesdører skal alltid være låst. Lyset slukkes etter bruk på loft og
-    kjenner.
+__c)__ Fellesdører skal alltid være låst. Lyset slukkes etter bruk på loft og
+    kjeller.
 
-d) Slipp ikke inn folk som ringer på og som du ikke kjenner eller ikke skal til
+__d)__ Slipp ikke inn folk som ringer på og som du ikke kjenner eller ikke skal til
     deg.
 
-e) Det skal vises varsomhet ved flytting eller oppussing. All skade som påføres
+__e)__ Det skal vises varsomhet ved flytting og oppussing. All skade som påføres
     felleseiendom må erstattes av den eller de som forårsaker skaden.
 
-f) Røyking er ikke tillatt innendørs i fellesområder. Sneiper og annet søppel
+__f)__ Røyking er ikke tillatt innendørs i fellesområder. Sneiper og annet søppel
     skal ikke kastes fra balkonger eller på fellesområdene.
 
-g) Sameiet tillater at det installeres strøm i kjellerbod for fryseboks eller
+__g)__ Sameiet tillater at det installeres strøm i kjellerbod for fryseboks eller
     fryseskap etter godkjenning av styret. Seksjonseier vil bli belastet en gang
-    årlig for strøm. Beboer kan velge om de selv vil kontakte elektriker for
+    årlig for strøm. Beboere kan velge om de selv vil kontakte en elektriker for
     tilkobling eller om sameiet skal formidle kontakten. Utgiftene til
     elektriker bekostes uansett av den enkelte beboer. Velger du å ordne
     installasjonen selv, skal samsvarserklæringen sendes styret når arbeidet er
     utført.
 
-## 11.BRUK AV BALKONGER
+## 11. BRUK AV BALKONGER
 
-a) Det er kun tillatt med gass og elektrisk grill på balkongen.
+__a)__ Det er kun tillatt med gass- og elektrisk grill på balkongen.
 
-b) Lufting og tørking av tøy, tepper mv. kan skje på balkonger under
+__b)__ Lufting og tørking av tøy, tepper mv. kan skje på balkonger under
     rekkverkshøyde såfremt det ikke er til sjenanse for naboene. Gjenstander som
     strekker seg utenfor balkongen er ikke tillatt.
 
-c) Risting av tepper og lignende over rekkverket er ikke tillatt.
+__c)__ Risting av tepper og lignende over rekkverk er ikke tillatt.
 
-d) Balkongen skal ikke benyttes som lagringsplass for søppel, møbel eller
+__d)__ Balkongen skal ikke benyttes som lagringsplass for søppel, møbler eller
     lignende, unntak er gassbeholdere.
 
-e) Ristene (slukene) på balkongen må holdes rene, slik at overvann ikke trenger
+__e)__ Ristene (slukene) på balkongene må holdes rene, slik at overvann ikke trenger
     inn i boligen.
 
-f) Markiser på balkonger – se pkt. 12
+__f)__ Markiser på balkonger – se pkt. 12.
 
-## 12.MARKISER, VARMEPUMPE, PARABOL, JULEBELYSNING M.V.
+## 12. MARKISER, VARMEPUMPE, PARABOL, JULEBELYSNING M.V.
 
 Styret beslutter utforming og plassering av alle faste utvendige installasjoner,
 derunder markiser, vind-/solskjerming, gjerder/rekkverk, utebelysning på balkong
 og lignende.
 
-a) Markiser skal følge felles standard utarbeidet av sameiet/styret. Det er fra
+__a)__ Markiser skal følge felles standard utarbeidet av sameiet/styret. Det er fra
     og med 1. januar 2019 vedtatt at alle som skal montere markiser på balkonger
-    eller over vinduer skal ha en og samme farge. Skejonseier må selv bekoste
+    eller over vinduer skal ha en og samme farge. Seksjonseier må selv bekoste
     innkjøp og montering og er ansvarlig for alt økonomisk og forsikringsmessig
-    i forbindelse med markiser. Se øvrig sameiets hjemmeside for tips og tilud.
-    Dukfarge 405-727 (tilnærmet lik farge som på husene)
+    i forbindelse med markiser. Se for øvrig sameiets hjemmeside for tips og
+    tilbud. Dukfarge: 407-727 (tilnærmet lik farge som på husene)
 
-b) Parabolantenner tillates ikke oppsatt på eiendommens vegger, balkonger eller
-    tak
+__b)__ Parabolantenner tillates ikke oppsatt på eiendommens vegger, balkonger eller
+    tak.
 
-c) Varmepumpe er ikke tillatt.
+__c)__ Varmepumpe er ikke tillatt.
 
-d) Julebelysning skal begrenset til egen balkong/trekkverk og alle utelys skal
-    være av fargen hvit ogha konstant lysstyrke ( ikke blinkende). Julebelysning
-    skal begrenses til periosden 10. november til 1. febriar.
+__d)__ Julebelysning skal begrenses til egen balkong/rekkverk og alle utelys skal
+    være av fargen hvit og ha konstant lysstyrke (ikke blinkende). Julebelysning
+    skal begrenses til perioden 10. november til 1. februar.
 
-## 13.SIKKERHET, NØKLER
+## 13. SIKKERHET, NØKLER
 
-a) Bygningenes hoveddører er sikret med låser som bare kan åpnes med
+__a)__ Bygningenes hoveddører er sikret med låser som bare kan åpnes med
     systemnøkler som er kvittert ut til personer etter behov og med avtalte
     rettigheter.
 
-b) Beboer må ha et bevisst forhold til hvem som slippes inn når det ringer på
+__b)__ Beboer må ha et bevisst forhold til hvem som slippes inn når det ringer på
     dørklokken og skal i utgangspunktet ikke slippe inn personer de ikke selv
     kjenner.
 
-c) Hovedinngangsdørene skal til enhver tid holdes låst.
+__c)__ Hovedinngangsdørene skal til enhver tid holdes låst.
 
-## 14.POSTKASSE- OG RINGETABLÅSKILT
+## 14. POSTKASSE- OG RINGETABLÅSKILT
 
 Postkassene skal fremstå som så ryddige og like som mulig, og fri for
 papirlapper og andre løsninger som kan virke uryddige.
 
-a) Den enkelte seksjonseier er selv ansvarlig for at navneskiltet på postkassen
-    er korrekt. De som leier ut, må sørge for å bestille nye postkasseskilt når
-    det kommer nye leieboere.
+__a)__ Den enkelte seksjonseier er selv ansvarlig for at navneskiltet på postkassen
+    er korrekt. De som leier ut, må sørge for å bestille nye postkasseskilt til
+    nye leieboere.
 
-b) Bestilling av nye skilt kan gjøres ved å sende e-post til styret, hvor det
-    opplyses om både nytt navn og navnet som skal byttes ut. På ringetablåskilt
-    brukes kun etternavn.
+__b)__ Fra 1. mai 2020 vil beboerne bli belastet for utgiftene til postkasseskilt.
+    ABBL fakturerer seksjonseier. Bestilling av nye skilt kan gjøres ved å sende
+    e-post til Vibeke Kolstad på vk@abbl.no hvor det opplyses om både nytt navn
+    og navnet som skal byttes ut. På ringetablåskilt brukes kun etternavn.
 
-c) For å skape et helhetlig uttrykk og design vil skiltene inntil videre være
-    gratis for seksjonseier.
+Skilt til utvendig ringetablå er gratis og fås ved henvendelse til styret på
+post@vestreholmensameie.no.
 
-## 15.FELLESOMRÅDER – UTEOMRÅDER
+## 15. FELLESOMRÅDER – UTEOMRÅDER
 
-a) Alle uteområder står til beboernes felles benyttelse, alle skal bidra til å
+__a)__ Alle uteområder står til beboernes felles benyttelse, alle skal bidra til å
     verne anlegget, samt holde orden, slik at vi får et trivelig og pent
     uteområde.
 
-b) Beboerne kan plante/kjøpe ferdige planter til å sette utenfor
-    inngangspartier. Ale annet grøntareal er felles, og beplantning på
-    fellesområder må tas opp med styret for godkjennelse/samkjøring. Hvis du som
-    beboer har innspill og idéer til uteområdene så ta kontakt med styret.
+__b)__ Beboere kan plante/kjøpe ferdige planter til å sette utenfor inngangspartiet.
+    Alt annet grøntareal er felles, og beplantning på fellesarealer må tas opp
+    med styret for godkjennelse/samkjøring. Hvis du som beboer har innspill og
+    idéer til uteområdene så ta kontakt med styret.
 
-c) Det må vernes om planter, busker og trær. Felling av trør og andre større
+__c)__ Det må vernes om planter, busker og trær. Felling av trær og andre større
     inngrep skal styret godkjenne, men arbeidet utføres av sameiets gartner
     eller andre styret engasjerer.
 
-d) De som ønsker egen hageparsell, kan sette seg på liste for disse via styret.
+__d)__ De som ønsker egen hageparsell, kan sette seg på liste for disse via styret.
     Jord og annet som skal brukes til parsellen må bekostes av parsellens
     bruker. Sameiet skal ikke ha utgifter på parsellene.
 
-e) Det oppstår ofte grønske på ytterveggene på balkongene. Dette fjernes med
-    grønnsåpevann og langkost, men sørg for å informere naboer i etasjene under
-    før du går i gang. Øvrig ytre vedlikehold ved skade er styrets ansvar.
+__e)__ Det oppstår ofte grønske på ytterveggene på balkongene. Dette kan fjernes med
+    grønnsåpevann og langkost, men sørg for å informere naboer i etasjene under før
+    du går i gang. Øvrig ytre vedlikehold ved skade er styrets ansvar.
 
-## 16.GARASJE / PARKERING
+## 16. GARASJE/PARKERING
 
-a) Seksjonseierne har ikke eksklusiv bruksrett til parkeringsplasser.
+__a)__ Seksjonseierne har ikke eksklusiv bruksrett til parkeringsplasser.
 
-b) Det er ikke tillatt å hensette vampingvogner eller avskiltede kjøretaøy på
+__b)__ Det er ikke tillatt å hensette campingvogner eller avskiltede kjøretøy på
     sameiets eiendom. Tilhengere må ikke parkeres over lengre tid uten styrets
     skriftlige samtykke.
 
-c) Sameiet har et antall garasjer. Interesserte kan melde fra til styret og få
+__c)__ Sameiet har et antall garasjer. Interesserte kan melde fra til styret og få
     tildelt garasje ut fra liste. Det blir betalt egen garasjeleie.
 
-d) Garasjen skal ikke brukes til lagringsplass av møbler eller brann- og
+__d)__ Garasjen skal ikke brukes til lagringsplass av møbler eller brann- og
     eksplosjonsfarlige gjenstander.
 
-e) Sameiet har åtte ladeplasser for elbiler i Luftfartsveien 18
+__e)__ Sameiet har åtte ladeplasser for elbiler i Luftfartsveien 18
     (forretningsbygget), 6 på baksiden og to på enden av bygget. Bruker betaler
     en månedlig leie. Lån av ladekort fås ved henvendelse til styret.
 
-f) Det er ikke lov å lade EL-bil i garasjene pga. brannfare og at det elektriske
+__f)__ Det er ikke lov å lade EL-bil i garasjene pga. brannfare og at det elektriske
     anlegget ikke er dimensjonert for det.
 
-## 17.BRANNFOREBYGGENDE SIKKERHET
+## 17. BRANNFOREBYGGENDE SIKKERHET
 
 Det er strengt forbudt å lagre bensin, gassbeholdere eller andre brannfarlige
 stoffer i leiligheter/loft/kjellere/garasjer eller fellesarealer. Det er ikke
 tillatt å sette fra seg motorsykkel eller moped i kjellerne.
 
-## 18.FELLESVASKERI
+## 18. FELLESVASKERI
 
 Fellesvaskeriet i Flyveien 11 er å anse som fellesareal. Dette kan benyttes av
 beboerne etter fastsatte bestemmelser. Fellesvaskeriet skal kun benyttes av
-beboerne i Vestre Holmen sameie. Bestemmelsene er beskrevet i inngangen til
-vaskeriet.
+beboere i Vestre Holmen sameie.
 
-## 19.BRUDD PÅ HUSORDENSREGLENE / KLAGER
+Bestemmelsene er beskrevet i inngangen til vaskeriet.
+
+## 19. BRUDD PÅ HUSORDENSREGLENE / KLAGER
 
 Seksjonseierne og brukere av eierseksjonene plikter å følge husordensreglene, og
 er ansvarlige for at de overholdes av alle i husstanden og andre som gis adgang
@@ -376,68 +371,68 @@ sanksjoner.
 Eventuelle klager på nabo for brudd på husordensreglene eller andre sjenerende
 forhold, bør rettes direkte til vedkommende. Kanskje er vedkommende ikke klar
 over forholdet, og problemet kan på den måten løses gjennom samtaler partene
-imellom
+imellom.
 
 Klager må fremsettes skriftlig dersom styret skal behandle den.
 
-## 20.ERSTATNINGSANSVAR
+## 20. ERSTATNINGSANSVAR
 
 Seksjonseier er erstatningsansvarlig for enhver skade som oppstår som følge av
 overtredelse av husordensreglene eller annen mangel på aktsomhet. Seksjonseier
-er også ansvarlig for at husordensreglene blir overhold av hele husstanden,
+er også ansvarlig for at husordensreglene blir overholdt av hele husstanden,
 leietagere og andre personer som er gitt adgang til leiligheten og
-fellesarealer. Skader som påføres sameiets eiendeler, skal straks meldes
-tstyret. Den som har forårsaken skaden, skal på eget intiativ og regning,
-utbedre skaden. Oerson utbedring ikke finner sted innen en frist fastsatt av
+fellesarealer. Skader som påføres sameiets eiendeler, skal straks meldes styret.
+Den som har forårsaket skaden, skal på eget initiativ og for egen regning,
+utbedre skaden. Dersom utbedring ikke finner sted innen en frist fastsatt av
 styret, eller utbedringen ikke er tilstrekkelig, kan styret la utbedring skje
 for seksjonseiers regning.
 
-## 21.KONTAKTINFORMASJON OG HJEMMESIDE
+## 21. KONTAKTINFORMASJON OG HJEMMESIDE
 
 Seksjonseierne må informere styret og forretningsfører om postadresse,
 e-postadresse og telefonnummer.
 
 Seksjonseierne oppfordres til å holde seg orientert om informasjon som gjøres
-tilgjengelig på sameiets hjemmeside eller facebook-side.
+tilgjengelig på sameiets hjemmeside eller Facebook-side.
 
 Det vil ved viktig informasjon til beboerne også henges opp skriv i alle
 oppgangene. Det er en fordel om seksjonseiere holder styret oppdatert på korrekt
 epostadresse. Meldinger til styret skal skje til post@vestreholmensameie.no
 
-## 22.ENDRING AV HUSORDENSREGLENE
+## 22. ENDRING AV HUSORDENSREGLENE
 
 Vesentlige endringer av husordensreglene må forelegges årsmøte til godkjenning.
 Mindre justeringer kan foretas av styret, men må da offentliggjøres på sameiets
 hjemmesider.
 
-## 23.HÅNDHEVELSE
+## 23. HÅNDHEVELSE
 
-Styret flertall er øverste instans mht. håndhevelse av husordensreglene.
+Styrets flertall er øverste instans mht. håndhevelse av husordensreglene.
 
-## 24.VALGKOMITÉ TIL STYREVERV
+## 24. VALGKOMITÉ TIL STYREVERV
 
-Årsmøte i sameiet velger hvert år en valgkomité som har som oppgave å rekruttere
-og komme med innstilling til hvem de mener passer inn i styrets sammensetning.
-For å sikre transparens vil alle kandidater bli presentert, men med kommentar om
-hvem valgkomitéen mener bør være første valg. Til sist er det opp til
-seksjonseiere å valge kandidat. Valgkomiteen fremmer også forslag til nye
-medlemmer til neste års valgkomité. I tillegg fremmer valgkomiteen, på bakgrunn
-av sitt kjennskap til styrearbeidet i det foregående år, forslag til honorar til
-det sittende styret. Valgkomiteen skal bestå av 2-5 medlemmer som normalt velges
-for to år.
+Årsmøte i sameiet velger hvert år en valgkomité som har som hovedoppgave å
+rekruttere og komme med innstilling til hvem de mener passer inn i styrets
+sammensetning. For å sikre transparens vil alle kandidater bli presentert, men
+med kommentar om hvem valgkomitéen mener bør være første valg. Til sist er det
+opp til seksjonseiere å velge kandidat.
 
-## 25.SAMEIETS STYRE
+Valgkomiteen fremmer også forslag til nye medlemmer til neste års valgkomité. I
+tillegg fremmer valgkomiteen, på bakgrunn av sitt kjennskap til styrearbeidet i
+det foregående år, forslag til honorar til det sittende styret.
+
+Valgkomiteen skal bestå av 2-5 medlemmer som normalt velges for to år.
+
+## 25. SAMEIETS STYRE
 
 Styret består av et begrenset antall personer som velges av seksjonseierne på
 årsmøtet. Styret gis da fullmakt til å forvalte og drifte bygninger og
 eiendommer, samt regler og lover for sameiet.
 
-Styret svarer på e-post. Ved hastesaker, kontakt styret på følgende tlf. XXX
-Oversikt over styrets sammensetning vil være tilgjengelig på sameiets
-hjemmeside.
+Styret svarer på e-post. Ved hastesaker, se kontaktopplysninger til styret i
+trappoppgangen. Oversikt over styrets sammensetning vil være tilgjengelig på
+sameiets hjemmeside.
 
-## 26.ÅRSMØTE
+## 26. ÅRSMØTE
 
-Se § 12-16 i sameiets vedtekter.
-
-(Endret på ordinært årsmøte 2021.05.29)
+Se § 12 – 16 i sameiets vedtekter.
