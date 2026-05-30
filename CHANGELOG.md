@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-31
+- Vedtekter fra 2023
+- Husordensregler fra vestreholmensameie-nettsiden, merket mai 2021
+
 ## 2026-05-30
 - Vedtekter fra 2019 og 2021
 - Husordensregler fra 2019 og 2021
