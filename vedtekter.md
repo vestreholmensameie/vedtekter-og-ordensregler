@@ -1,10 +1,6 @@
 # VEDTEKTER VESTRE HOLMEN SAMEIE
 
-_Vedtatt på konstituerende årsmøte den 28. mai 2019_
-
-_endret på ekstraordinært årsmøte 21. oktober 2019_
-
-_Sist vedtatt 29. mai 2021_
+_Sist oppdatert etter ekstraordinært årsmøte 24. januar 2023._
 
 ## § 1 Generelt
 
@@ -48,16 +44,17 @@ gjelder så lenge sameiet ikke har saklig behov for å benytte arealet til annet
 formål, eller det av andre saklige grunner er nødvendig at bereder flyttes.
 Sameiet skal så langt det er mulig legge til rette for alternativ plassering på
 fellesareal hvis berederen må flyttes. Seksjonseier kan installere fryser i egne
-boder etter skriftlig samtykke fra styret. Seksjonseier må selv bekoste
+boder etter skriftlig samtykke fra styret. Seksjonseier kan installere fryser i
+egne boder etter skriftlig samtykke fra styret. Seksjonseier må selv bekoste
 autorisert elektriker til å montere jordet stikkontakt. Fryser kan benytte
 felles strøm mot at seksjonseier innbetaler et årlig beløp som fastsettes av
 styret.
 
 Sameiets garasjeplasser er fellesareal. Styret fordeler plassene mellom beboerne
-etter i henhold til ventelister. Garasjene følger ikke seksjonene, når beboer
-flytter, går garasjen tilbake til fordeling via venteliste. Det er ikke lov å
-lade EL-bil i garasjene pga. brannfare og at det elektriske anlegget ikkeer
-dimensjonert for det.
+i henhold til ventelister. Garasjene følger ikke seksjonene, når beboer flytter,
+går garasjen tilbake til fordeling via venteliste. Det er ikke lov å lade EL-bil
+i garasjen pga brannfare og at det elektriske anlegget ikke er dimensjonert for
+det.
 
 Parkeringsplasser for personer med nedsatt funksjonsevne skal gjøres
 tilgjengelig for disse så lenge behovet er til stede. Leie for garasjeplass skal
@@ -71,7 +68,7 @@ bare nekte å samtykke dersom det foreligger saklig grunn.
 Overdragelse av seksjon må kun finne sted på de vilkår som er inntatt i disse
 vedtekter, tinglyste dokumenter og kjøpekontrakt.
 
-Ved salg av leiligheten skal selger informere styret i forkant. Totalrestanse
+Ved salg av leilighet skal selger informere styret i forkant. Totalrestanse
 inklusive renter og omkostninger skal være innbetalt sameiet ved
 forretningsfører, før salg kan foretas. Utestående krav vil om nødvendig bli
 inndrevet i henhold til §21 om legalpant.
@@ -105,14 +102,14 @@ Blomsterkasser og blomsterpotter må sikres for ikke å falle ned fra balkongene
 Innvendig vedlikehold av bruksenheten besørges og bekostes av den enkelte
 seksjonseier. Med innvendig vedlikehold forstås blant annet oppussing,
 istandsettelse og fornyelse av maling, tapet, gulv, tak, innvendige vegger,
-dører, ildsteder låser, nøkler, elektriske ledninger med tilbehør fra og med
+dører, ildsteder, låser, nøkler, elektriske ledninger med tilbehør fra og med
 bruksenhetens sikringsboks, privat varmtvannsbereder tilknyttet seksjonen,
 vannkraner, servanter og annet sanitærutstyr. Dette gjelder også ledninger og
 innretninger som seksjonseieren selv har satt opp.
 
 Seksjonseieren skal vedlikeholde våtrom slik at lekkasjer unngås. Videre
 omfatter vedlikeholdsplikten vann- og fuktsperrer i våtrom og vann- og
-avløpsledninger fraforgreiningspunktet på hovedledningsnettet. Seksjonseieren
+avløpsledninger fra forgreiningspunktet på hovedledningsnettet. Seksjonseieren
 skal rense sluk og holde avløpsrør åpne frem til fellesledningen.
 Vedlikeholdsplikten omfatter ikke utskiftning av sluk. Hvis beboer mot
 formodning ønsker å skifte sluk på egenregning kan sameiet dekke utgifter med
@@ -156,18 +153,27 @@ Sameiet skal blant annet:
 __a)__ vedlikeholde og forvalte eiendommen med grøntarealer, beplantning, veier,
     lekeplasser, biloppstillingsplasser og fellesinnretninger av enhver art,
 
-__b)__ besørge vedlikehold av sameiets bygninger på eiendommen, herunder
+__b)__ vedlikeholde og pleie eiendommens grøntarealer i tråd med profesjonelle
+    arboristers anbefalinger og med vekt på skånsom skjøtsel av trær og
+    vegetasjon, også med tanke på vern av insekter, fugler og ville dyr.
+    Nyplanting skal utføres etter profesjonelle råd. Det skal utarbeides
+    skjøtselsplan med konkrete forslag til vedlikehold av grøntarealer og
+    nyplanting på kort og lang sikt. Skjøtselsplanen oppdateres årlig av en
+    skjøtselskomité og presenteres for årsmøtet. Skjøtselskomiteen skal bestå av
+    én representant fra styret og minst to representanter fra sameiet,
+
+__c)__ besørge vedlikehold av sameiets bygninger på eiendommen, herunder
     garasjeanlegg, trappeoppganger, ytre inngangsdører og andre innvendige
-    fellesarealer, utskifting av vinduer se dog §5 og ytterdører, samt
-    vedlikehold av felles rør og ledninger.<br>
-    Dette omfatter ikke arealer som er underlagt en eller flere seksjonseieres
-    eksklusive bruksrett og derav følgende vedlikeholdsansvar.
+    fellesarealer, utskifting av vinduer se dog § 5 og ytterdører, samt
+    vedlikehold av felles rør og ledninger. Dette omfatter ikke arealer som er
+    underlagt en eller flere seksjonseieres eksklusive bruksrett og derav
+    følgende vedlikeholdsansvar.
 
 ## § 7 Forandringer av seksjon og fasade
 
 Seksjonseier må ikke uten godkjennelse fra sameiets styre foreta forandringer
 vedrørende bygningskonstruksjonen og fellesanlegg, som for eksempel rive eller
-endre bærevegger, eller flislegge balkong/terrasse. Tilsvarende gjelder tiltak
+endre bærevegger eller flislegge balkong/terrasse. Tilsvarende gjelder tiltak
 som medfører fasadeendringer, for eksempel utskiftning av dører og vinduer eller
 endring av utvendige farger. Det er ikke tillatt å montere varmepumpe eller
 parabol/antenne, da Sameiets bygninger er listet på Byantikvarens «Gul liste».
@@ -185,11 +191,11 @@ prosessen og fremtidig vedlikehold. Disse bestemmelsene er inntatt som vedlegg 2
 til vedtektene og utgjør en integrert del av sameiets vedtekter.
 
 Følgende seksjoner har fått tillatelse og utbygget loftsareal før sameiets
-vedtekter trådte i kraft i 2019: snr 5 (tidligere aksjenummer 43), snr 35
-(tidligere aksjenummer 67), snt 42 (tidligere aksjenummer 124), snr 48
-(tidligere aksjenummer 67), snr 149 (tidligere aksjenummer 105), snr155
-(tidligere aksjenummer 139), snr 161 (tidligere aksjenummer 91), og snr 47
-(tidligere aksjenummer 110).
+vedtekter trådte i kraft i 2019: Snr. 5 (tidligere aksjenummer 43), snr 35
+(tidligere aksjenummer 67), snr 42 (tidligere aksjenummer 124), snr 48
+(tidligere aksjenummer 67), snr 149 (tidligere aksjenummer 105), snr 155
+(tidligere aksjenummer 139), snr 161 (tidligere aksjenummer 91) og snr 47
+(tidligere aksjenummer 110)
 
 Følgende seksjoner har fått tillatelse og utbygget kjellerareal; snr 31
 (tidligere aksjenummer 56).
@@ -215,7 +221,7 @@ måte.
 
 Seksjonseieren skal betale egenandelen ved forsikringsskader der sameiets
 forsikring benyttes på skader som ligger under seksjonseierens
-vedlikeholdsansvar eller som seksjonseier har påført sameiet eller andre ved
+vedlikeholdsansvar eller som seksjonseieren har påført sameiet eller andre ved
 forsett eller uaktsomhet. Seksjonseieren er i disse tilfellene også ansvarlig
 for tap som ikke dekkes av sameiets forsikring som følge av helt eller delvis
 avkortning eller avslag på grunn av seksjonseierens forhold.
@@ -232,6 +238,7 @@ seksjonseieren for øvrig.
 vedlikehold, påkostninger eller andre fellestiltak på eiendommen.
 
 ## § 11 Mislighold
+
 Hvis en seksjonseier til tross for advarsel vesentlig misligholder sine
 forpliktelser overfor de øvrige seksjonseierne, kan styret, med minst seks
 måneders skriftlig varsel, pålegge seksjonseieren å selge seksjonen. Er ikke
@@ -254,10 +261,11 @@ Den øverste myndighet i sameiet utøves av årsmøtet.
 
 Hvert år innen 30. juni skal det avholdes ordinært årsmøte. Styret skal på
 forhånd varsle seksjonseierne om dato for møtet og om siste frist for
-innlevering av saker som ønskes behandlet. Ekstraordinært årsmøte skal holdes
-når styret finner det nødvendig, eller når minst to seksjonseiere som til sammen
-har minst en tiendedel av stemmene, krever det og samtidig oppgir hvilke saker
-de ønsker behandlet.
+innlevering av saker som ønskes behandlet.
+
+Ekstraordinært årsmøte skal holdes når styret finner det nødvendig, eller når
+minst to seksjonseiere som til sammen har minst en tiendedel av stemmene, krever
+det og samtidig oppgir hvilke saker de ønsker behandlet.
 
 På årsmøtet har seksjonseierne stemmerett med én stemme for hver seksjon. For
 boligseksjoner har også seksjonseierens ektefelle, samboer eller et annet medlem
@@ -307,7 +315,7 @@ __e)__ driftsbudsjett
 __f)__ valg av styreleder, styremedlemmer, varamedlemmer og valgkomité dersom
     noen av disse er på valg
 
-__g)__ andre saker som er nevnt i innkallingen
+__g)__ andre saker som er nevnt i innkallingen.
 
 Bortsett fra saker som skal behandles av ordinært årsmøte etter
 eierseksjonsloven § 44 annet ledd, kan årsmøtet bare ta beslutning om saker som
@@ -345,7 +353,7 @@ __b)__ omgjøring av fellesarealer til nye bruksenheter eller utvidelse av
     eksisterende bruksenheter,
 
 __c)__ andre rettslige disposisjoner over fast eiendom som går ut over vanlig
-    forvaltning
+    forvaltning,
 
 __d)__ samtykke til at formålet for én eller flere bruksenheter endres fra
     boligformål til annet formål eller omvendt,
@@ -400,8 +408,8 @@ Sameiet skal ha styre. Styret består av styreleder og inntil 5 styremedlemmer o
 inntil 2 varamedlemmer. Årsmøtet velger styret med vanlig flertall av de avgitte
 stemmer. Styrelederen velges særskilt. Det skal også velges en valgkomité.
 Valgkomiteen velges for 2 år og skal bestå av 2-5 medlemmer. Valgkomitéens
-funksjon er i all hovedsak å bistå generalforsamlingen med å velge etgodt
-sammensatt styret. De rekrutterer mulige kandidater og kommer med en innstilling
+funksjon er i all hovedsak å bistå generalforsamlingen med å velge et godt
+sammensatt styre. De rekrutterer mulige kandidater og kommer med en innstilling
 til hvem de mener bør sitte i styret.
 
 Funksjonstiden for styreleder og de øvrige styremedlemmene er to år.
@@ -428,6 +436,9 @@ Vedtak treffes med alminnelige flertall. Ved stemmelikhet utgjør møteleders
 stemme utslaget. Styret skal føre protokoll over sine forhandlinger. Protokollen
 skal underskrives av de fremmøtte styremedlemmene.
 
+Styret plikter å gi sameierne tilstrekkelig informasjon om planlagte eller
+pågående prosjekter. Informasjonen skal være utformet på en lettforståelig måte.
+
 ## § 18 Forretningsfører
 
 Årsmøtet kan med vanlig flertall beslutte at sameiet skal ha forretningsfører.
@@ -435,7 +446,7 @@ Forretningsfører engasjeres og sies opp av styret.
 
 Styret kan delegere deler av sin kompetanse til å ta beslutninger etter esl. §
 58 til forretningsføreren. Forretningsføreren kan bare utøve sin
-beslutningsmyndighet innenfor rammen av hva som er delegert fra styret
+beslutningsmyndighet innenfor rammen av hva som er delegert fra styret.
 
 Forretningsføreren forestår den daglige driften av sameiets eiendom.
 Forretningsfører sørger for innkreving av felleskostnader fra seksjonseierne og
@@ -484,5 +495,5 @@ Sameiet kan ikke oppløses uten uttrykkelig enighet fra samtlige seksjonseiere.
 
 ## § 25 Eierseksjonsloven
 
-or så vidt ikke annet følger av disse vedtekter, gjelder reglene i lov om
+For så vidt ikke annet følger av disse vedtekter, gjelder reglene i lov om
 eierseksjoner av 16. juni 2017 nr. 65.
