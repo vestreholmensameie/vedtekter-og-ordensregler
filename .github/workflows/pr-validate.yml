@@ -1,16 +1,17 @@
 name: Validate PR
 
+# Validate PR/Check CHANGELOG.md update
 on:
   pull_request:
-    branches: ["main"]
+    branches:
+      - main
 
 jobs:
   check-changelog:
     name: Check CHANGELOG.md update
     runs-on: ubuntu-latest
-    environment: production
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
