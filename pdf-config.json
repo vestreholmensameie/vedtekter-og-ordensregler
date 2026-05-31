@@ -1,0 +1,9 @@
+{
+  "pdf_options": {
+    "format": "A4",
+    "margin": "20mm",
+    "displayHeaderFooter": true,
+    "headerTemplate": "<span></span>",
+    "footerTemplate": "<div style=\"width: 100%; text-align: center; font-size: 10px; font-family: sans-serif;\">Side <span class=\"pageNumber\"></span> av <span class=\"totalPages\"></span></div>"
+  }
+}
