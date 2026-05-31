@@ -4,7 +4,7 @@ _Sist oppdatert etter ekstraordinært årsmøte 24. januar 2023._
 
 ## § 1 Generelt
 
-Sameiets navn er Vestre Holmen sameie og har gnr. 32 og bnr. 568 i Oslo kommune.
+Sameiets navn er Østre Holmen sameie og har gnr. 32 og bnr. 568 i Oslo kommune.
 Sameiet ble opprettet ved seksjoneringsbegjæring tinglyst 5. mars 2019.
 
 Eiendommen er delt opp i 165 ideelle eierandeler, hvorav 162 er boligseksjoner
