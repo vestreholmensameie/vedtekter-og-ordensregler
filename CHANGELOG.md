@@ -10,3 +10,4 @@
 - Oppsett av repository og deploy til github pages
 - Oppsett av sjekk av CHANGELOG.md
 - Utkastmerking av PDF-er som ikke er releaset
+- Oppgraderte verktøy/biblioteker
