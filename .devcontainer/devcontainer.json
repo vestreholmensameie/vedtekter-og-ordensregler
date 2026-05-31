@@ -1,0 +1,19 @@
+{
+  "name": "Jekyll",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "forwardPorts": [
+    4000
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Shopify.ruby-lsp"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'set nocompatible' > ~/.vimrc && echo 'set backspace=indent,eol,start' >> ~/.vimrc",
+  "postStartCommand": "if [ -n \"$ANTIGRAVITY_CLI_ALIAS\" ]; then gh auth setup-git; fi"
+}

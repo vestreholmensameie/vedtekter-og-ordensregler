@@ -9,3 +9,4 @@
 - Husordensregler fra 2019 og 2021
 - Oppsett av repository og deploy til github pages
 - Oppsett av sjekk av CHANGELOG.md
+- Utkastmerking av PDF-er som ikke er releaset
