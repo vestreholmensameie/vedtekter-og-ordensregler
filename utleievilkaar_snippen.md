@@ -1,4 +1,4 @@
-# Kontrakt for leie av lokaler i Snippen Grendehus, Flyveien 11
+# UTKAST! Kontrakt for leie av lokaler i Snippen Grendehus, Flyveien 11
 
 _Oslo, vedtatt av styret i Vestre Holmen Sameie den XX.XXX 2026_
 
