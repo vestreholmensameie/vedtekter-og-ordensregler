@@ -1,6 +1,6 @@
 # Kontrakt for leie av lokaler i Snippen Grendehus, Flyveien 11
 
-_Oslo, vedtatt på styremøte i Vestre Holmen Sameie den XX.XXX 2026_
+_Oslo, vedtatt av styret i Vestre Holmen Sameie den XX.XXX 2026_
 
 Dokumentet inneholder bestemmelser om leietakers rettigheter og plikter.
 
@@ -16,7 +16,8 @@ Leietaker forplikter seg til å foreta en gjennomgang av rømningsplanen for de
 som skal være til stede i lokalene i leieperioden.
 
 Ved vesentlig brudd på kontrakten, eller de til enhver tid gjeldende
-ordensregler for lokalene, har VHS v/styret - rett til ………….. ?
+ordensregler for lokalene, har Vestre Holmen Sameie v/styret - rett til å
+avbryte arrangementet umiddelbart og nekte fremtidig leie.
 
 ## Avlysning – Oppsigelse fra leietakers side
 
@@ -28,7 +29,7 @@ leietaker med 50 % av avtalt leiesum.
 Leietaker plikter å levere lokalene tilbake etter hvert arrangement, ryddet og i
 rengjort stand som før utleie. Forsømmer leietaker sin plikt til dette ved
 mangelfull rydding/renhold, har utleier rett til selv å foreta det nødvendige
-arbeid, mot å fakturere leietaker med kr. xxx,- pr time for utført arbeide.
+arbeid, mot å fakturere leietaker med kr. 500,- pr time for utført arbeide.
 
 ## Skader
 
