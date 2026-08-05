@@ -1,7 +1,7 @@
 # Changelog
 
 ## 2026-08-05
-- Utleievilkår for Snippen grendehus. Ikke endelig vedtatt.
+- Utleievilkår for Snippen grendehus. Ikke endelig vedtatt. Utkast publiseres.
 
 ## 2026-05-31
 - Vedtekter fra 2023
