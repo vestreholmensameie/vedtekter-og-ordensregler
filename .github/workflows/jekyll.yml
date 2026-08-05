@@ -51,6 +51,7 @@ jobs:
           fi
           npx md-to-pdf vedtekter.md --config-file pdf-config.json
           npx md-to-pdf husordensregler.md --config-file pdf-config.json
+          npx md-to-pdf utleievilkaar_snippen.md --config-file pdf-config.json
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
@@ -62,6 +63,7 @@ jobs:
           path: |
             vedtekter.pdf
             husordensregler.pdf
+            utleievilkaar_snippen.pdf
           retention-days: 5
       - name: Opprett Deploy Summary for PDFs
         run: |
@@ -103,14 +105,15 @@ jobs:
           files: |
             vedtekter.pdf
             husordensregler.pdf
+            utleievilkaar_snippen.pdf
           body: |
             ## Generelt
 
-            Dette er en release av sameiets vedtekter og husordensregler.
+            Dette er en release av sameiets vedtekter, husordensregler og utleieilkår.
 
             [Siste oppdaterte versjon](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/)
 
-            På nettsiden finner du vedtekter og husordensregler som html og PDF.
+            På nettsiden finner du alle dokumentene som html og PDF.
 
   deploy:
     if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
