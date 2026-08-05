@@ -1,0 +1,45 @@
+# Kontrakt for leie av lokaler i Snippen Grendehus, Flyveien 11
+
+_Oslo, vedtatt på styremøte i Vestre Holmen Sameie den XX.XXX 2026_
+
+Dokumentet inneholder bestemmelser om leietakers rettigheter og plikter.
+
+Leietaker står som ansvarlig og skal være til stede ved hele arrangementet.
+Lokalene er disponible i den tiden som er leietaker har avtalt med utleier.
+
+## Leietakers plikter – Konsekvenser av mislighold
+
+Leietaker plikter å følge husordensreglene som gjelder i Vestre Holmen Sameie,
+og som er del av denne kontrakten.
+
+Leietaker forplikter seg til å foreta en gjennomgang av rømningsplanen for de
+som skal være til stede i lokalene i leieperioden.
+
+Ved vesentlig brudd på kontrakten, eller de til enhver tid gjeldende
+ordensregler for lokalene, har VHS v/styret - rett til ………….. ?
+
+## Avlysning – Oppsigelse fra leietakers side
+
+Ved avlysning senere enn en uke før avtalt arrangements-/leiedag belastes
+leietaker med 50 % av avtalt leiesum.
+
+## Rydding/vask og tilbakelevering
+
+Leietaker plikter å levere lokalene tilbake etter hvert arrangement, ryddet og i
+rengjort stand som før utleie. Forsømmer leietaker sin plikt til dette ved
+mangelfull rydding/renhold, har utleier rett til selv å foreta det nødvendige
+arbeid, mot å fakturere leietaker med kr. xxx,- pr time for utført arbeide.
+
+## Skader
+
+Skader på eiendom, utstyr og løsøre som skyldes leietakers bruk, belastes
+leietaker i sin helhet mot faktura.
+
+Visning av lokalene og gjennomgang av branninstruks og andre regler skjer etter
+avtale med representant fra styret.
+
+## Kontraktsinngåelse
+
+Jeg bekrefter å ha lest leiekontraktens bestemmelser ovenfor og ordensregler og
+godkjenner dem, idet jeg vil rette meg etter de reglene som gjelder for leie av
+Snippen Grendehus.

@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-08-05
+- Utleievilkår for Snippen grendehus. Ikke endelig vedtatt i styret.
+
 ## 2026-05-31
 - Vedtekter fra 2023
 - Husordensregler fra vestreholmensameie-nettsiden, merket mai 2021
