@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-20
+- Utleievilkår for Snippen grendehus, vedtatt av sittende styre i Vestre Holmen
+  Sameie.
+
 ## 2026-08-05
 - Utleievilkår for Snippen grendehus. Ikke endelig vedtatt.
 
