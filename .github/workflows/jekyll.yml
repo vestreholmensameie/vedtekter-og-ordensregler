@@ -4,9 +4,19 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'Release tag (Format: <år>.<løpenr>). La stå tom for å teste uten å opprette Release.'
+        description: 'Release tag (Format: <år>.<løpenr>). La stå tom for å republisere uten å opprette Release.'
         required: false
         type: string
+      deploy_pages:
+        description: 'Publiser til GitHub Pages'
+        required: false
+        type: boolean
+        default: true
+      deploy_wordpress:
+        description: 'Publiser utleievilkår til WordPress'
+        required: false
+        type: boolean
+        default: true
   pull_request:
     branches:
       - main
@@ -116,7 +126,7 @@ jobs:
             På nettsiden finner du alle dokumentene som html og PDF.
 
   deploy:
-    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' && inputs.deploy_pages
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -128,7 +138,7 @@ jobs:
         uses: actions/deploy-pages@v5
 
   deploy_wordpress:
-    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' && inputs.deploy_wordpress
     runs-on: ubuntu-latest
     needs: release
     steps:
