@@ -126,3 +126,33 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  deploy_wordpress:
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Konverter vilkår til HTML og publiser til WordPress
+        env:
+          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
+          WP_PAGE_ID: ${{ secrets.WP_TERMS_PAGE_ID }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+        run: |
+          if [ -z "$WP_SITE_URL" ] || [ -z "$WP_PAGE_ID" ] || [ -z "$WP_USERNAME" ] || [ -z "$WP_APP_PASSWORD" ]; then
+            echo "WordPress deploy secrets er ikke konfigurert; hopper over."
+            exit 0
+          fi
+          npx --yes marked -i utleievilkaar_snippen.md -o utleievilkaar_snippen.html
+          PAYLOAD=$(jq -n --rawfile content utleievilkaar_snippen.html '{content: $content, status: "publish"}')
+          curl --fail-with-body -sS -X POST \
+            -u "${WP_USERNAME}:${WP_APP_PASSWORD}" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD" \
+            "${WP_SITE_URL%/}/wp-json/wp/v2/pages/${WP_PAGE_ID}" > /dev/null
