@@ -1,7 +1,7 @@
 # Changelog
 
 ## 2026-11-25
-- Automatisk publisering av `utleievilkaar_snippen.md` til WordPress-side via REST API ved `workflow_dispatch` på `main`.
+- Automatisk publisering av `utleievilkaar_snippen.md` til WordPress-side via REST API ved `workflow_dispatch` på `main`, + pen output.
 - Valgfrie avkrysningsbokser (`deploy_pages` og `deploy_wordpress`) for å kunne republisere uten å opprette ny Release.
 
 ## 2026-08-20

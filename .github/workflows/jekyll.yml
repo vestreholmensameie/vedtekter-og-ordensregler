@@ -156,7 +156,9 @@ jobs:
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
         run: |
           if [ -z "$WP_SITE_URL" ] || [ -z "$WP_PAGE_ID" ] || [ -z "$WP_USERNAME" ] || [ -z "$WP_APP_PASSWORD" ]; then
-            echo "WordPress deploy secrets er ikke konfigurert; hopper over."
+            echo "WordPress deploy secrets/vars er ikke konfigurert; hopper over."
+            echo "### ⚠️ WordPress-publisering hoppet over" >> "$GITHUB_STEP_SUMMARY"
+            echo "Mangler en eller flere av \`WP_SITE_URL\`, \`WP_TERMS_PAGE_ID\`, \`WP_USERNAME\` (vars) eller \`WP_APP_PASSWORD\` (secret)." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
           npx --yes marked -i utleievilkaar_snippen.md -o utleievilkaar_snippen.html
@@ -165,4 +167,16 @@ jobs:
             -u "${WP_USERNAME}:${WP_APP_PASSWORD}" \
             -H "Content-Type: application/json" \
             -d "$PAYLOAD" \
-            "${WP_SITE_URL%/}/wp-json/wp/v2/pages/${WP_PAGE_ID}" > /dev/null
+            -o wp_response.json \
+            "${WP_SITE_URL%/}/wp-json/wp/v2/pages/${WP_PAGE_ID}"
+          PAGE_URL=$(jq -r '.link // empty' wp_response.json)
+          if [ -z "$PAGE_URL" ]; then
+            PAGE_URL="${WP_SITE_URL%/}/?page_id=${WP_PAGE_ID}"
+          fi
+          {
+            echo "### 🌐 Utleievilkår publisert til WordPress"
+            echo ""
+            echo "- **Side-ID:** \`${WP_PAGE_ID}\`"
+            echo "- **Status:** \`$(jq -r '.status // "publish"' wp_response.json)\`"
+            echo "- **Lenke til vilkår:** [${PAGE_URL}](${PAGE_URL})"
+          } >> "$GITHUB_STEP_SUMMARY"
