@@ -150,9 +150,9 @@ jobs:
           node-version: 24
       - name: Konverter vilkår til HTML og publiser til WordPress
         env:
-          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
-          WP_PAGE_ID: ${{ secrets.WP_TERMS_PAGE_ID }}
-          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_SITE_URL: ${{ vars.WP_SITE_URL }}
+          WP_PAGE_ID: ${{ vars.WP_TERMS_PAGE_ID }}
+          WP_USERNAME: ${{ vars.WP_USERNAME }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
         run: |
           if [ -z "$WP_SITE_URL" ] || [ -z "$WP_PAGE_ID" ] || [ -z "$WP_USERNAME" ] || [ -z "$WP_APP_PASSWORD" ]; then
